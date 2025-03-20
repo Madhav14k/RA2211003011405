@@ -10,3 +10,5 @@ Full-Stack
 
 
 ##SOCIAL-MEDIA-ANALYTICS PLATFORM INTERFACE!!!
+![IMG- 20250320 -WA0026](https://github.com/user-attachments/assets/8424366e-5d49-4ba2-9925-5a540fe55b1e)
+
